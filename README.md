@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @marcelokay
-- 👀 I’m interested in Basketball, Football and a bit of coding
-- 🌱 I’m currently learning python , django python and extended parts of front end and back end
-- 💞️ I’m looking to collaborate with Young MA i guess lol
-- 📫 You can reach me @marcelokielly@gmail.com or Just call me or text me on whatsapp on 08028594489
-
-<!---
-marcelokay/marcelokay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Data Analyst with a passion for transforming raw data into actionable insights. Proficient in statistical analysis, data visualization, and utilizing tools like Excel, SQL and Power BI. Strong analytical and problem-solving skills, coupled with effective communication to drive informed business decisions. Eager to contribute expertise in data-driven decision-making and continuous improvement. 
+Also a passionate Computer Scientist seeking a role to apply acquired knowledge and practical experience in theoretical foundations for Information Technology. Highly motivated and results-driven, able to work and learn as part of a dedicated team. Experienced in handling customer inquiries, resolving issues, and maintaining positive relationships. Strong multitasking abilities that exceed customer service goals.
+Proficiency in the designing of user interfaces using figma. Also with the help of HTML, CSS and python
+I am a self taught data analytics personnel in Microsoft excel, SQL, Microsoft Power BI and Python in data analytics.
+Strong Interpersonal skills verbally and written from customer service provision experience, customer- relationship management and team collaboration.
